@@ -1,0 +1,52 @@
+SCRIPT MODIFICATIONS
+	beta: adv/simp ratio
+		adv:simp 1:3	$1.2k/sec after running for a few minutes
+		all adv 
+	script to automate backdoor using home server
+	refactor remote and loop common code
+	remove simp? 
+
+BACKGROUND TASKS
+	create program
+	cybersec contract
+	joes guns
+
+LARGER GOALS
+	get all cybersec augs
+
+NOTES
+	modify and rerun setup with FTPCrack
+	
+REAL LIFE
+	write docs for all scripts
+
+~~WHEN ROLLING OUT CHANGES~~ now aliased to `start`
+	`run setup.js home home`
+	`run buyservs.js`
+	`run remote.js home phantasy`
+
+Target servers
+	phantasy 600m max money, 7 minimum security, hack level 100 
+
+SERVER COSTS
+2^	RAM			Cost
+1	2			110 k
+2	4			220 k
+3	8			440 k
+4	16			880 k
+5	32			1.76 m
+6	64			3.52 m
+7	128			7.04 m
+8	256			14.08 m
+9	512			28.16 m
+10	1024		56.32 m *** 1.4b to buy 25
+11	2048		112.64 m *** 2.8b to buy 25
+12	4096		225.28 m *** 5.6b to buy 25
+13	8192		450.56 m
+14	16384		901.12 m
+15	32768		1.80224 b
+16	65536		3.60448 b
+17	131072		7.20896 b
+18	262144		14.41792 b
+19	524288		28.83584 b
+20	1048576		57.67168 b
